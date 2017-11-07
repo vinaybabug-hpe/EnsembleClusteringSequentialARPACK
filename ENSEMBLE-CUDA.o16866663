@@ -1,0 +1,19 @@
+
+================== nodes ====================
+n163
+n163
+n163
+n163
+n163
+n163
+n163
+n163
+
+================= job info  =================
+Date:   Thu Apr 13 21:09:26 UTC 2017
+Job ID: 16866663.pod
+Queue:  H30
+Cores:  8
+
+=================== run =====================
+/var/spool/torque/mom_priv/jobs/16866663.pod.SC: line 44: 551443 Segmentation fault      ./cluster_ensemble_create dataset/testcase1/PST_all_nBoot_1.mat dataset/testcase1/ens_combined_4x5_512.mat "Risky Decision Making Data From IGT" dataset/testcase1/output_ens_combined_4x5_512_data.mat
